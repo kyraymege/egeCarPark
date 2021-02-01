@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1610964678 source:c:\users\ege\desktop\donemprojesi\otoparkprojesi\main.cpp
+	<iostream>
+	<conio.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<cstdio>
+	<stack>
+
